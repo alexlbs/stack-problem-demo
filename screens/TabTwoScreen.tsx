@@ -3,7 +3,7 @@ import { StyleSheet } from 'react-native';
 
 import EditScreenInfo from '../components/EditScreenInfo';
 import { Text, View } from '../components/Themed';
-//import '../graphQLTypes';
+import '../graphQLTypes';
 
 export default function TabTwoScreen() {
   return (
